@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pradeep-kumar-github
-- 👀 I’m interested in Web Development, Mobile app development and Machine Learning
+- 👀 I’m interested in AI World.
 - My Portfolio Link : https://pradeep-kumar-github.github.io/my-portfolio/
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
